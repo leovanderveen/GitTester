@@ -10,6 +10,7 @@
 		B26ABA5C1E6EADFA00E75CB6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B26ABA5B1E6EADFA00E75CB6 /* AppDelegate.swift */; };
 		B26ABA5E1E6EADFA00E75CB6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B26ABA5D1E6EADFA00E75CB6 /* Assets.xcassets */; };
 		B26ABA611E6EADFA00E75CB6 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = B26ABA5F1E6EADFA00E75CB6 /* MainMenu.xib */; };
+		B26ABA691E6EB1C900E75CB6 /* README in Resources */ = {isa = PBXBuildFile; fileRef = B26ABA681E6EB1C900E75CB6 /* README */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -18,6 +19,7 @@
 		B26ABA5D1E6EADFA00E75CB6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B26ABA601E6EADFA00E75CB6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		B26ABA621E6EADFA00E75CB6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B26ABA681E6EB1C900E75CB6 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = README; path = ../README; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +52,7 @@
 		B26ABA5A1E6EADFA00E75CB6 /* GitTester */ = {
 			isa = PBXGroup;
 			children = (
+				B26ABA681E6EB1C900E75CB6 /* README */,
 				B26ABA5B1E6EADFA00E75CB6 /* AppDelegate.swift */,
 				B26ABA5D1E6EADFA00E75CB6 /* Assets.xcassets */,
 				B26ABA5F1E6EADFA00E75CB6 /* MainMenu.xib */,
@@ -117,6 +120,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B26ABA691E6EB1C900E75CB6 /* README in Resources */,
 				B26ABA5E1E6EADFA00E75CB6 /* Assets.xcassets in Resources */,
 				B26ABA611E6EADFA00E75CB6 /* MainMenu.xib in Resources */,
 			);
